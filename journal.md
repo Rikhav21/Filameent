@@ -25,3 +25,12 @@ Today I started to work a little bit more on the CAD, and took a little more ins
 Today I mainly tried to make the extruder CAD work better, and I worked a little bit more so that I was able to add the extruder end, but I still have some more work to do with the soupler, and searching for parts. So for I am mainly  just using plumbing suppies, and a 200W PSU. I expect the total for the extruder to be a little bit over 70 dollars, and in my eyes that is actually pretty cheap. Also here is my link to the [CAD](https://cad.onshape.com/documents/f48d7279894860b6ba842288/w/ddca002676b835894c3001ed/e/6bdb128f4344ef60cc602ccf?renderMode=0&uiState=6840ed080e4e6f650fb91c5b).
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f083bebd0a8e9b9923e05fc944f3a6341b9edbbb_image.png)
 *Total Time: 9 hours*
+
+
+# Day4(6/4/25)
+Today I spent so much of the day just researching and finding out more about filament recycling. I experimenting with trying stuff in my microwive, thought about a filament diameter measurer, and I was thinking about PID controll for my Extruder. I think that I finished the CAD for what I need, and I started with working on the spool winder. I also saw a lot of 3d print shredder, and I can just make 3 types. Onw will just be smashing the print with a hammer. Another will be grindign small sppols witha  drill, and the third wuld be suning a planar cutter like in [here](https://www.instructables.com/Low-Cost-Plastic-Shredder/). My generall idea is to first process any large peices witha hammer and the planar, and mae some pretty cource filment. The process that filament again using the drill thing to end up with pretty regular and predictable chinks. During the call I mainly worked on some more cad, and started with the filament winder.
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/08a4edb5071048328edb3207c1214a34ed01cb76_image.png)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54e3b98939134a60f008aa88ae527966efe2c660_image.png)
+
+**Total Time: 13 and a half hours. **(I think that I was supposed to add the time each entry, but if it is seprately please correct me)
