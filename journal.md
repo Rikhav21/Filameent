@@ -34,3 +34,8 @@ Today I spent so much of the day just researching and finding out more about fil
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54e3b98939134a60f008aa88ae527966efe2c660_image.png)
 
 **Total Time: 13 and a half hours. **(I think that I was supposed to add the time each entry, but if it is seprately please correct me)
+
+# Day 5 6/5/24
+Today I spent way to long going down a rabbit hole of trying to reasearch about ArtME MK3S extruder. I looked into a few videos and started to scrap the lyman style extruder in favor for a more compact design like this. However after spending more than 3 hours looking into this possibility I looked into the cost and the overall complexity of the project, and I realized that making a Lymann style extruder would be a lot easier. So today I just made some very simple changes to the filament winder, and I spent way to long trying to find out how I can build one. Right now I am trying to have a filament puller and spooler at the same time, however I am debating weather I can first start with just the puller, which is probably what I will start with, because in a few extruders I saw that thry just let the filament fall to the ground. [this is another source that I saw that is really good inspo](https://reprap.org/forum/read.php?70,205005,page=1)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0d437fb07a7dfbb39b660927c11f4fa1e2a92be_dsc00933.jpg) This is sort of what I am thinking to do for now.
+**Total time, 17 hours**
