@@ -40,8 +40,13 @@ Today I spent way to long going down a rabbit hole of trying to reasearch about 
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0d437fb07a7dfbb39b660927c11f4fa1e2a92be_dsc00933.jpg) This is sort of what I am thinking to do for now.
 **Total time, 17 hours**
 
-#Day 6 8/6/25
+# Day 6 8/6/25
 I swear CAD should not take this long. Today I mainly tried to model my spoolwinder, and I also did a lot of research into ways taht I can add the spool winder. Right now I decided against adding a level spool, because right now I think that it is more important to save the budger to make a proper shredder, than winding upgrades can come later. I also started to work on th eCAD for all of the electronic housing, but right now I have done pretty much all of the mechanical parts, and I started researching for the BOM. As always that design will probably bue updated over the next few days, but I hope to reach a pretty final one in the next two days.
 
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6af989354857136c515297538d18198d84d8bccd_image.png)
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2b523f473cb631802b8567893abda8150f0ffbdf_image.png)
+
+**Total Time: 29 and a half hours**
+# Day 7 8/6/25
+Today I speant way too long looking at different places to buy screws, comparing prices, and making most of the BOM. Here is the [link](https://docs.google.com/spreadsheets/d/1sRPHx7a0FnejNgpwdRBudMl1rintzHyC-McsPvJrDYQ/edit?gid=0#gid=0). I spent around 160 dollars so far. (I still need to update the BOM, with everything in my cart). But I expect the most expensive part to be the shredder, but first I want to make sure that my extruder can still at leaset extrude filament, before I spend so much time trying to just make the pellets for the extruder. I also did some calculations, and It should take around 4 hours to make 1 spool of filament, but I have pretty good tourque, so I do not really care about the speed, because the motor itself is actually 8 dollars, other than many 80 dollar motors that people use for an extruder, or a car windsheil one. SO I think that this was a good choice.
+**Total time: 33 hours**
