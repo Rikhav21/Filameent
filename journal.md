@@ -3,6 +3,7 @@ title: "Recyclment"
 author: "Rikhac, (Rmardia)"
 description: "I aim to make a relatively cheap filament recylcing machine!"
 created_at: "2024-05-30"
+Time spend: "37 hours"
 ---
 
 # Recycliment
@@ -50,3 +51,7 @@ I swear CAD should not take this long. Today I mainly tried to model my spoolwin
 # Day 7 8/6/25
 Today I speant way too long looking at different places to buy screws, comparing prices, and making most of the BOM. Here is the [link](https://docs.google.com/spreadsheets/d/1sRPHx7a0FnejNgpwdRBudMl1rintzHyC-McsPvJrDYQ/edit?gid=0#gid=0). I spent around 160 dollars so far. (I still need to update the BOM, with everything in my cart). But I expect the most expensive part to be the shredder, but first I want to make sure that my extruder can still at leaset extrude filament, before I spend so much time trying to just make the pellets for the extruder. I also did some calculations, and It should take around 4 hours to make 1 spool of filament, but I have pretty good tourque, so I do not really care about the speed, because the motor itself is actually 8 dollars, other than many 80 dollar motors that people use for an extruder, or a car windsheil one. SO I think that this was a good choice.
 **Total time: 33 hours**
+
+# Day 8 9/6/25
+Today I looked at a ton of different shredders, and I was at first thinking that I was going to make it using a planar shredder. But then after taking safety into consideration, I thought that it would pobably be better to make another type of shredder. At this point I already modelled the idea with a planar shredder, but then I had to scrap that completely and I took a long time to look at precious plastic shredders. I realized that those were really expensive, and having mo means of really making those at home, I then desided to look into mini drill powered shredders like with the one by Recreator 3d. After that I finished the entire BOM, and now all that is left before I submit is the PCB (I am thinking of making one for filament diameter sesting), and the README, so I hope to submit tomorrow.
+**Total time: 37 hours.**
