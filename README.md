@@ -5,13 +5,15 @@ This is supposed to be a really affordable filament recycler. Basically it is ma
 So for this I mainly jsut want to recyle the over 3 kg of filament waste I have I print way to much, and although it will probably not save me money right now, I also want to experiment with making different types of filaments. I saw CNC kitchen make filament from plastic spoons, and I wanted to saw what other types of filaments that I could make, maybe with wood fillings or othe rodd types of filaments, that I think would be cool to jmake. I also want to sort of experiment with different extrusion ways to learn a little bit more about how filament is made, because i am really interested  in the 3d printing space. I also wanted to see if I could blend different pellets to make composite filamets with different properties.
 
 ## CAD
-I have the link for (Onshape)[https://cad.onshape.com/documents/f48d7279894860b6ba842288/w/ddca002676b835894c3001ed/e/73c4766b2e0be6da7adfd5e1?renderMode=0&uiState=6848c3cd49e7b737193d131e], along with the step files in the repo. Here I have the entire filament assembly, and the parts in blue are going to be custom made, the boards are going to be made of wood, while the rest is printed.
-!(IMG)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/63652451610ba19f72e33f3622bdd9e8dfba1bb5_image.png]
-!(IMG)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/592e73b5a4363f9f1a14578a8e91928d3ec6ad37_image.png]
-!(ING)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/63652451610ba19f72e33f3622bdd9e8dfba1bb5_image.png]
-!(IMG)(https://hc-cdn.hel1.your-objectstorage.com/s/v3/2878c4de57fb77733c3c1e6564e1a5e29f5441c7_image.png)
+I have the link for [Onshape](https://cad.onshape.com/documents/f48d7279894860b6ba842288/w/ddca002676b835894c3001ed/e/73c4766b2e0be6da7adfd5e1?renderMode=0&uiState=6848c3cd49e7b737193d131e), along with the step files in the repo. Here I have the entire filament assembly, and the parts in blue are going to be custom made, the boards are going to be made of wood, while the rest is printed.
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/63652451610ba19f72e33f3622bdd9e8dfba1bb5_image.png)
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/592e73b5a4363f9f1a14578a8e91928d3ec6ad37_image.png)
+![ING](https://hc-cdn.hel1.your-objectstorage.com/s/v3/63652451610ba19f72e33f3622bdd9e8dfba1bb5_image.png)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2878c4de57fb77733c3c1e6564e1a5e29f5441c7_image.png)
 
 ## PCB
 So this is just for the filament diameter sensor and is completely optional. I want to be able to see how consistant my filament diameter is for different tests of blends of filament, and this is based off other open source filament diameter measurers.
-!(IMG)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e6d1a6e955f22f384cadb8ab52cb8e7a0cf28c2_screenshot_2025-06-10_175309.png]
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e6d1a6e955f22f384cadb8ab52cb8e7a0cf28c2_screenshot_2025-06-10_175309.png)
 
