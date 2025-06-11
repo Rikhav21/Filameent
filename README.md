@@ -14,7 +14,7 @@ I have the link for [Onshape](https://cad.onshape.com/documents/f48d7279894860b6
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2878c4de57fb77733c3c1e6564e1a5e29f5441c7_image.png)
 
 ## PCB
-So this is just for the filament diameter sensor and is completely optional. I want to be able to see how consistant my filament diameter is for different tests of blends of filament, and this is based off other open source filament diameter measurers.
+So this is just for the filament diameter sensor and is completely optional. I want to be able to see how consistant my filament diameter is for different tests of blends of filament, and this is based off other open source filament diameter measurers. Diafil is the name of the PCB part.
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e6d1a6e955f22f384cadb8ab52cb8e7a0cf28c2_screenshot_2025-06-10_175309.png)
 
 ## BOM
