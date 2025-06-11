@@ -55,3 +55,9 @@ Today I speant way too long looking at different places to buy screws, comparing
 # Day 8 9/6/25
 Today I looked at a ton of different shredders, and I was at first thinking that I was going to make it using a planar shredder. But then after taking safety into consideration, I thought that it would pobably be better to make another type of shredder. At this point I already modelled the idea with a planar shredder, but then I had to scrap that completely and I took a long time to look at precious plastic shredders. I realized that those were really expensive, and having mo means of really making those at home, I then desided to look into mini drill powered shredders like with the one by Recreator 3d. After that I finished the entire BOM, and now all that is left before I submit is the PCB (I am thinking of making one for filament diameter sesting), and the README, so I hope to submit tomorrow.
 **Total time: 37 hours.**
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22eff53c48b5546f0bb8c46e91c4e8f5bd806e95_image.png)
+
+# Day 9 10/6/25
+Today I just did all of the stuff so that I was ready to submit my design. I made the schematic, and I also worked on the readME. I was able to submit today, and I updated it with all of the necessary parts of the design.
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef8c35f18f197abcbcd562725b29a1f69b60020c_untitled_drawing.png)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eda4dccafc3444bb0dca5b9e87c9fb5b17470856_pid.png)
