@@ -17,3 +17,45 @@ I have the link for [Onshape](https://cad.onshape.com/documents/f48d7279894860b6
 So this is just for the filament diameter sensor and is completely optional. I want to be able to see how consistant my filament diameter is for different tests of blends of filament, and this is based off other open source filament diameter measurers.
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e6d1a6e955f22f384cadb8ab52cb8e7a0cf28c2_screenshot_2025-06-10_175309.png)
 
+## BOM
+| Part Name          | Category   | Price |
+| :----------------- | :--------- | :---- |
+| Extruder Motor     | Motor      | 9.1  |
+| Winder Motor       | Motor      | 18.2  |
+| Auger              | Auger      | 9.25  |
+| Voltage Regs       | Motor PMW  | 9.3   |
+| Heater Band        | Band       | 9.3   |
+| PID + SSR + thermo | REX        | 20.9  |
+| PIpe               | Iron thing | 7.5   |
+| Coupler            | Black      | 6.4   |
+| Plugs              | 1/2 NPT    | 4.3   |
+| Fans               | 12 V       | 5.8   |
+| Power              | 3 pin      | 4.2   |
+| Flange             | 1/2        | 6.8   |
+| Screws             | 1          | 3.3   |
+| Screws             | 2          | 4.2   |
+| Spring             | stretch    | 3.1   |
+| insulation         | G11        | 7.0   |
+| Insulation         | blanket    | 5.2   |
+| Cutting blades     | 1/8        | 4.5   |
+| Kapton Tape        | 10mm       | 5.5   |
+| switches           | 110 V      | 1.7   |
+| PSU                | 150W       | 23.4  |
+| Wire               | 12 AWG     | 12.9  |
+| flange             | 1/2        | 7.3   |
+| steel nipple       | 1/2 inch   | 5.2   |
+| Drill bit          | flush trim | 12.3  |
+| Drill              | any works  | 30.2  |
+| Filament           | Easy ABS   | 20.00 |
+| Magnet             | 6x2mm      | 0.5   |
+| Resistors          | Kit        | 1.0   |
+| bearings           | v62zz      | 1.0   |
+| Capacitors         | 10UF       | 1.0   |
+| ATTiny85           | 1          | 3.0   |
+| Arduino nano       | type c     | 3.03  |
+| LCD screen         | I2C        | 2.9   |
+| Dowels             | m3         | 2.0   |
+| PCB cost           | JLCPCB     | 4.5   |
+Total cost 266.63
+
+
