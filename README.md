@@ -15,7 +15,7 @@ I have the link for [Onshape](https://cad.onshape.com/documents/f48d7279894860b6
 
 ## PCB
 So this is just for the filament diameter sensor and is completely optional. I want to be able to see how consistant my filament diameter is for different tests of blends of filament, and this is based off other open source filament diameter measurers. Diafil is the name of the PCB part.
-![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e6d1a6e955f22f384cadb8ab52cb8e7a0cf28c2_screenshot_2025-06-10_175309.png)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc3388517dd1f07d8e7f555b4cc91706b3b56c0c_image.png)
 
 ## Schematic
 This is the schemeatic that I plan to use to build my filament extruder. This one is for my extruder.
